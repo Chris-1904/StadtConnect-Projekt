@@ -1,0 +1,9 @@
+{
+  "reviewedAt": "2026-10-28",
+  "source": "https://www.mannheim.de/de/nachrichten/skatepark-an-der-rheinpromenade-eingeweiht",
+  "sourcePublishedAt": "2024-07-25",
+  "rules": [
+    {"featureIds": ["267", "126"], "removeCategories": ["Skateparks"], "displayName": "Pfalzplatz", "reason": "Die Stadt bestätigt, dass die frühere Skateanlage einer Kindertagesstätte weichen musste. Die widersprüchlichen alten Katasterangaben werden nicht als aktuelles Skateangebot übernommen."},
+    {"featureIds": ["93"], "addCategories": ["Skateparks"], "reason": "Eröffnung der erneuerten Skateanlage Schnickenloch am 24.07.2024 offiziell bestätigt. Lagepunkt aus der amtlichen Freizeitfläche, keine nachgezeichnete oder geschätzte Gerätekoordinate."}
+  ]
+}

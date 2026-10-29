@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-28T20:30:48.389Z",
+  "realPlaces": 25,
+  "loadedRealTiles": 42,
+  "failedTiles": [],
+  "errors": [],
+  "browserSource": "Amtliche lokale Orts-/Grenzgeometrien; unveränderte CARTO-Kacheln über begrenzte Node-Abrufe; lokale Testadresse über Dateirouten"
+}

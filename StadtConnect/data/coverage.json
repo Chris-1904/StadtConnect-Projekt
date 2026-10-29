@@ -1,0 +1,219 @@
+{
+  "total": 25,
+  "districts": {
+    "Lindenhof": 7,
+    "Neckarau": 10,
+    "Rheinau": 8
+  },
+  "categories": {
+    "Lindenhof": {
+      "Basketballplätze": 3,
+      "Beachvolleyballplätze": 0,
+      "Bibliotheken": 0,
+      "BMX-Anlagen": 0,
+      "Calisthenics-Anlagen": 1,
+      "Fußballplätze / Bolzplätze": 5,
+      "Laufbahnen": 1,
+      "Outdoor-Fitnessanlagen": 0,
+      "Parkour-Anlagen": 0,
+      "Skateparks": 1,
+      "Tischtennisplatten": 0,
+      "Volleyballplätze": 0
+    },
+    "Neckarau": {
+      "Basketballplätze": 6,
+      "Beachvolleyballplätze": 0,
+      "Bibliotheken": 1,
+      "BMX-Anlagen": 0,
+      "Calisthenics-Anlagen": 0,
+      "Fußballplätze / Bolzplätze": 7,
+      "Laufbahnen": 1,
+      "Outdoor-Fitnessanlagen": 0,
+      "Parkour-Anlagen": 0,
+      "Skateparks": 1,
+      "Tischtennisplatten": 1,
+      "Volleyballplätze": 0
+    },
+    "Rheinau": {
+      "Basketballplätze": 5,
+      "Beachvolleyballplätze": 0,
+      "Bibliotheken": 1,
+      "BMX-Anlagen": 1,
+      "Calisthenics-Anlagen": 0,
+      "Fußballplätze / Bolzplätze": 7,
+      "Laufbahnen": 0,
+      "Outdoor-Fitnessanlagen": 0,
+      "Parkour-Anlagen": 0,
+      "Skateparks": 1,
+      "Tischtennisplatten": 0,
+      "Volleyballplätze": 0
+    }
+  },
+  "excluded": [
+    {
+      "id": "sportflaechen_public.185",
+      "name": "TC Harmonie 1966",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.278",
+      "name": "Mannheimer Fußballclub 08 Lindenhof",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.331",
+      "name": "TSV Neckarau 1899",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.313",
+      "name": "TSV Neckarau 1899",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.360",
+      "name": "TSV Neckarau 1899",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.363",
+      "name": "Post-Sport-Gemeinschaft Mannheim",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.123",
+      "name": "Stadt Mannheim, Moll-Gymnasium",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.342",
+      "name": "Stadt Mannheim, Moll-Gymnasium",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.274",
+      "name": "Stadt Mannheim, Moll-Gymnasium",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.122",
+      "name": "Stadt Mannheim, Moll-Gymnasium",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.114",
+      "name": "Schwimmverein Mannheim Sommerbad",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.308",
+      "name": "Mannheimer Fußballclub 08 Lindenhof",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.294",
+      "name": "VfL Kurpfalz-Neckarau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.297",
+      "name": "Post-Sport-Gemeinschaft Mannheim",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.186",
+      "name": "Post-Sport-Gemeinschaft Mannheim",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.299",
+      "name": "Post-Sport-Gemeinschaft Mannheim",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.121",
+      "name": "Sport-Schützenvereinigung Neckarau 1900/09/51",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.343",
+      "name": "TV 1884 Neckarau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.277",
+      "name": "VfL Kurpfalz-Neckarau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.344",
+      "name": "VfL Kurpfalz-Neckarau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.293",
+      "name": "SC Pfingstberg-Hochstätt",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.135",
+      "name": "Stadt Mannheim, Konrad-Duden-Schule",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.305",
+      "name": "Stadt Mannheim, Konrad-Duden-Schule",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.282",
+      "name": "SC Pfingstberg-Hochstätt",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.134",
+      "name": "Stadt Mannheim, Konrad-Duden-Schule",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.340",
+      "name": "Stadt Mannheim, Pfingstbergschule",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.381",
+      "name": "TV Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.12",
+      "name": "TV Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.280",
+      "name": "Turn- und Sportgemeinschaft Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.289",
+      "name": "Turn- und Sportgemeinschaft Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.366",
+      "name": "SC Rot-Weiß 1952 Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.290",
+      "name": "SC Rot-Weiß 1952 Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    },
+    {
+      "id": "sportflaechen_public.301",
+      "name": "SC Rot-Weiß 1952 Rheinau",
+      "reason": "Vereins-/Schulgelände oder öffentlicher Zugang nicht ausreichend belegt"
+    }
+  ]
+}

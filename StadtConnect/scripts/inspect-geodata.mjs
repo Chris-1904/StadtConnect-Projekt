@@ -1,0 +1,11 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+const url=process.argv[2];
+const name=process.argv[3]||'response.txt';
+if(!url?.startsWith('https://'))throw Error('HTTPS-Quelladresse erforderlich');
+const response=await fetch(url,{signal:AbortSignal.timeout(30000)});
+const text=await response.text();
+await mkdir(new URL('../tests/research/',import.meta.url),{recursive:true});
+await writeFile(new URL('../tests/research/'+name,import.meta.url),text);
+console.log(response.status,text.length);
+console.log((text.match(/(?:src|href)=["'][^"']+/g)||[]).filter(x=>/js|php|xml|wfs|json/i.test(x)).slice(0,80).join('\n'));
+if(!text.includes('<html'))console.log(text.slice(0,800));

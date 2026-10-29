@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tests/research/districts-wgs84.gml",
+    "retrievedOn": "2026-10-28",
+    "sha256": "79ddbbb5f40fa4af69baa46552c88870d6ee405355b58ea29a1d71af99e9386f",
+    "bytes": 151261
+  },
+  {
+    "file": "tests/research/subdistricts-wgs84.gml",
+    "retrievedOn": "2026-10-28",
+    "sha256": "c7adccaca0851911608f1f4728a120d670456f754642d502c020c2d846f0a529",
+    "bytes": 370270
+  },
+  {
+    "file": "tests/research/sport-wgs84.gml",
+    "retrievedOn": "2026-10-28",
+    "sha256": "1e932dada06eafff938710ee9619bff9d1ed9bf4626c0fc81f90f27d350bbfbd",
+    "bytes": 1113724
+  },
+  {
+    "file": "tests/research/playground-wgs84.gml",
+    "retrievedOn": "2026-10-28",
+    "sha256": "9c47f082afdc056a5fc59e93c960761da341f353e3da99cd8d3f38d88f2762c3",
+    "bytes": 773586
+  },
+  {
+    "file": "tests/research/library-neckarau.html",
+    "retrievedOn": "2026-10-28",
+    "sha256": "4b84603d4064655b1aed9df0aa2e8d5e66975cf1e208f2c39fead04c921b25b4",
+    "bytes": 58867
+  },
+  {
+    "file": "tests/research/library-rheinau.html",
+    "retrievedOn": "2026-10-28",
+    "sha256": "38b0876076f00b9040f77e469290526fe7f84b24cd94f8223d8920785ba54edf",
+    "bytes": 58874
+  }
+]

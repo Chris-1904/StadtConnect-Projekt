@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "placeId": "ma_library_neckarau",
+      "sourceUrl": "https://www.mannheim.de/de/bildung-staerken/stadtbibliothek/adressen-und-oeffnungszeiten/zweigstellen-in-den-stadtteilen/neckarau",
+      "sourceLabel": "Offizielle Bibliotheksseite",
+      "hoursRows": [
+        "Montag und Mittwoch | 10 bis 12 Uhr + 13 bis 17.30 Uhr",
+        "Dienstag | 10 bis 12 Uhr + 13 bis 19 Uhr",
+        "Freitag | 9 bis 14 Uhr"
+      ],
+      "amenities": [
+        "2 Internet-Arbeitsplätze",
+        "Aufzug"
+      ],
+      "identityChecked": true,
+      "point": [
+        8.4856,
+        49.45889
+      ]
+    },
+    {
+      "placeId": "ma_library_rheinau",
+      "sourceUrl": "https://www.mannheim.de/de/bildung-staerken/stadtbibliothek/adressen-und-oeffnungszeiten/zweigstellen-in-den-stadtteilen/rheinau",
+      "sourceLabel": "Offizielle Bibliotheksseite",
+      "hoursRows": [
+        "Montag + Dienstag | 13 bis 19 Uhr",
+        "Mittwoch + Donnerstag | 10 bis 17 Uhr"
+      ],
+      "amenities": [
+        "Lese- und Lernplätze",
+        "WLAN",
+        "Ebenerdiger Eingang"
+      ],
+      "identityChecked": true,
+      "point": [
+        8.52288,
+        49.44078
+      ]
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28T21:24:16.048Z",
+  "passed": 18,
+  "checks": [
+    "Keine Abfrage beim ersten Start",
+    "Lindenhof: reale Liste und Marker deckungsgleich",
+    "Lindenhof: Ausschnitt umfasst die gesamte amtliche Grenze",
+    "Neckarau: reale Liste und Marker deckungsgleich",
+    "Neckarau: Ausschnitt umfasst die gesamte amtliche Grenze",
+    "Rheinau: reale Liste und Marker deckungsgleich",
+    "Rheinau: Ausschnitt umfasst die gesamte amtliche Grenze",
+    "Bezirksgrenzen separat abschaltbar",
+    "429 respektiert Retry-After, kein schneller Zweitversuch",
+    "429 erhält alle realen lokalen Orte",
+    "Alte Fremdorte, Mittelpunkte und Demo-Orte aus Cache und Speicher ausgeschlossen",
+    "Almenhof und Niederfeld in gespeicherten Profilen zu Neckarau migriert",
+    "Nutzeraktivität erhalten, aber nicht als aktuelles Angebot sichtbar",
+    "Fremdorte tauchen nach Neuladen nicht wieder auf",
+    "Aktivitätsauswahl enthält ausschließlich gültige reale Orte",
+    "Erhaltenes Treffen lässt sich einem gültigen Ort neu zuordnen",
+    "Fehlende amtliche Grenzen sperren Ergebnisse und Marker",
+    "Keine JavaScript-Laufzeitfehler"
+  ],
+  "errors": []
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-28T21:26:05.143Z",
+  "passed": 23,
+  "confirmedOpeningHours": 2,
+  "checks": [
+    "Offizielle geteilte Öffnungszeiten und Wochentage korrekt",
+    "Nicht genannte Tage werden nicht als geschlossen erfunden",
+    "Unbekannte/offensichtlich ungültige Stunden werden abgelehnt",
+    "Keine Bestätigung ohne belegte Quelle und Abrufdatum",
+    "Standard-OSM-Zeiten lesbar, Feiertagsregel getrennt",
+    "Komplexe nicht unterstützte OSM-Zeitangaben bleiben ungeklärt",
+    "24-Stunden-Angabe ausschließlich aus explizitem 24/7-Tag",
+    "Freitext im alten hours-Feld wird nicht als bestätigte Zeit übernommen",
+    "Nutzungs-/Mietzeiten werden nicht als Öffnungszeiten verwendet",
+    "Widersprüchliche Quellen sind sichtbar ungeklärt",
+    "Gleiche Zeiten in anderer Gruppierung sind kein Konflikt",
+    "Konflikte bleiben beim Zusammenführen von Ortsquellen erhalten",
+    "Sportkategorie erfindet weder Ausstattung noch Korbanzahl",
+    "Bibliotheksdarstellung verwendet keine Sportarten",
+    "Belegter OSM-Belag und Beleuchtung verständlich übernommen",
+    "Zugang ist ohne Nachweis unbekannt",
+    "Bedingter Zugang wird nicht als uneingeschränkt öffentlich bezeichnet",
+    "Fehlende Adresse erhält einen realen Ortsbezug",
+    "Bekannte Straße ohne Postleitzahl nennt weiterhin Mannheim",
+    "Genau zwei lokale Orte mit automatisch ausgelesenen offiziellen Zeiten",
+    "Alle 23 Sportorte bleiben ohne erfundene Öffnungszeiten",
+    "Automatische Ausstattung Neckarau ist konkret belegt",
+    "Automatische Lernplätze und WLAN Rheinau sind konkret belegt"
+  ]
+}
